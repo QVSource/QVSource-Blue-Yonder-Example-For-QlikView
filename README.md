@@ -15,6 +15,10 @@ Please see the notes in the load script for more details on this sample.
 
 ![](https://raw.github.com/QVSource/QVSource-Blue-Yonder-Example-For-QlikView/master/Screenshot.png)
 
+1.0.1 - 04/12/13
+----------------
+* Added badge.
+
 1.0.0 - 28/11/13
 ----------------
 * Initial Release
