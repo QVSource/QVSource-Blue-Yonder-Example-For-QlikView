@@ -13,7 +13,7 @@ IMPORTANT: In order to use this sample you will need to have:
 
 Please see the notes in the load script for more details on this sample.
 
-![](https://raw.github.com/QVSource/QVSource-Blue-Yonder-Example-For-QlikView/master/Screenshot.png)
+![](Screenshot.png)
 
 1.0.1 - 04/12/13
 ----------------
