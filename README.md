@@ -2,6 +2,8 @@ Blue Yonder Example App For QlikView
 ====================================
 An example load script showing how to get started using the [QVSource Blue Yonder Connector](http://wiki.qvsource.com/Blue-Yonder-Connector-For-QlikView.ashx) for QlikView.
 
+*Note that the [load script](https://github.com/QVSource/QVSource-Blue-Yonder-Example-For-QlikView/blob/master/QVSource-Blue-Yonder-Example-For-QlikView-prj/LoadScript.txt) should also work in Qlik Sense.*
+
 If you are a QlikView + QVSource user you can simply click the ["Download ZIP"] (https://github.com/QVSource/QVSource-Blue-Yonder-Example-For-QlikView/archive/master.zip) button on GitHub to grab this application.
 
 The content below is copied from the change log in the first tab of the load script.
